@@ -1,0 +1,84 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 400px;
+  height: 500px;
+  border: 1px black;
+}
+
+.container {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+
+.title {
+  font-family: helvetica;
+}
+
+.generate {
+  background-color:red;
+  border:none;
+  width: 100px;
+  height: 50px;
+  border-radius: 5px;
+  color: white;
+  margin: auto;
+  margin-top: 20px;
+  transition: ease-out 0.2s;
+}
+
+.generate:hover {
+  background-color: rgb(156, 18, 18);
+  cursor:pointer;
+  transition: ease-in 0.2s;
+}
+
+.yeezy{
+  max-width: 80%;
+  max-height: 80%;
+  margin: auto;
+  
+}
+
+.quotediv{
+  width:400px;
+  margin-top: 75px;
+}
+
+.fadein1{
+
+  font-family: monospace;
+  font-size: 32px;
+  font-weight: 100;
+  animation: fadeIn 3s;
+  
+}
+
+@keyframes fadeIn {
+  0% {opacity:0}
+  100% {opacity: 1}
+}
+
+.fadein2{
+  font-family: monospace;
+  font-size: 32px;
+  font-weight: 100;
+  animation: fadein 3s;
+  
+}
+
+@keyframes fadein {
+  0% {opacity:0}
+  100% {opacity: 1}
+}
+
+@media only screen and (max-width: 810px) {
+  .container{
+   flex-direction: column;
+   align-items: center;
+  }
+}
