@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YeQuoteGenerator/static/css/main.554cb044.css",
+    "main.js": "/YeQuoteGenerator/static/js/main.8bb82709.js",
+    "static/js/787.252c5a3f.chunk.js": "/YeQuoteGenerator/static/js/787.252c5a3f.chunk.js",
+    "static/media/ye.png": "/YeQuoteGenerator/static/media/ye.5dd64fb26d64c3185f8a.png",
+    "index.html": "/YeQuoteGenerator/index.html",
+    "main.554cb044.css.map": "/YeQuoteGenerator/static/css/main.554cb044.css.map",
+    "main.8bb82709.js.map": "/YeQuoteGenerator/static/js/main.8bb82709.js.map",
+    "787.252c5a3f.chunk.js.map": "/YeQuoteGenerator/static/js/787.252c5a3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.554cb044.css",
+    "static/js/main.8bb82709.js"
+  ]
+}
