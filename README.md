@@ -1,4 +1,4 @@
-KANYE QUOTE GENERATOR
+**KANYE QUOTE GENERATOR
 
 A simple quote Kanye generator I made with React. 
 
